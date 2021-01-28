@@ -42,4 +42,5 @@ export class TemaComponent implements OnInit {
       this.findAllTemas();
     })
   }
+
 }
